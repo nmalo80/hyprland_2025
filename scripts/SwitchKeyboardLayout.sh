@@ -29,8 +29,8 @@ echo "Current layout: $current_layout"
 
 # Read available layouts from settings file
 if [ -f "$settings_file" ]; then
-  kb_layout_line=$(grep 'kb_layout = ' "$settings_file" | cut -d '=' -f 2)
-  #kb_layout_line=$(grep 'kb_variant = ' "$settings_file" | cut -d '=' -f 2)
+  #kb_layout_line=$(grep 'kb_layout = ' "$settings_file" | cut -d '=' -f 2)
+  kb_layout_line=$(grep 'kb_variant = ' "$settings_file" | cut -d '=' -f 2)
   #kb_layout_line=$(grep 'kb_variant = ' "$settings_file" | cut -d '=' -f 2)
 
   #kb_layout_line = "$kb_layout_line_1 $kb_layout_line_2" 

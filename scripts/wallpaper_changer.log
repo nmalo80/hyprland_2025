@@ -1,0 +1,45 @@
+-------------------------------------
+-------------------------------------
+Wed 15 Jan 21:39:07 GMT 2025: Starting wallpaper changer script.
+We got: en
+-------------------------------------
+Wed 15 Jan 21:40:23 GMT 2025: Starting wallpaper changer script.
+/home/fed/.config/hypr/scripts/random_wallpaper.sh: line 38: syntax error: unexpected end of file
+-------------------------------------
+Wed 15 Jan 21:41:11 GMT 2025: Starting wallpaper changer script.
+/home/fed/.config/hypr/scripts/random_wallpaper.sh: line 67: syntax error: unexpected end of file
+-------------------------------------
+Wed 15 Jan 21:41:55 GMT 2025: Starting wallpaper changer script.
+/home/fed/.config/hypr/scripts/random_wallpaper.sh: line 67: syntax error: unexpected end of file
+-------------------------------------
+Wed 15 Jan 21:42:23 GMT 2025: Starting wallpaper changer script.
+/home/fed/.config/hypr/scripts/random_wallpaper.sh: line 67: syntax error: unexpected end of file
+-------------------------------------
+Wed 15 Jan 21:42:40 GMT 2025: Starting wallpaper changer script.
+We got: en
+-------------------------------------
+Wed 15 Jan 21:42:44 GMT 2025: Starting wallpaper changer script.
+We got: en
+-------------------------------------
+Wed 15 Jan 21:43:10 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+We got: en
+-------------------------------------
+Wed 15 Jan 21:43:28 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Beach_light.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Wed 15 Jan 21:43:31 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario world 2440.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+usage: waypaper [-h] [-v] [--restore] [--random]
+                [--fill {fill,stretch,fit,center,tile}]
+                [--wallpaper WALLPAPER] [--folder FOLDER]
+                [--state-file STATE_FILE]
+                [--backend {none,swaybg,swww,feh,wallutils,hyprpaper,mpvpaper}]
+                [--list]
+waypaper: error: unrecognized arguments: world 2440.jpg
+We got: en

@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 ## /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
 # For Dark and Light switching
 # Note: Scripts are looking for keywords Light or Dark except for wallpapers as the are in a separate folders
@@ -122,7 +122,7 @@ else
 fi
 
 # Update wallpaper using swww command
-$swww "${next_wallpaper}" $effect
+$swww "${next_wallpaper}" $effect 
 
 
 # Set Kvantum Manager theme & QT5/QT6 settings

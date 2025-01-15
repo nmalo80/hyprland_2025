@@ -1,0 +1,13 @@
+#!/bin/bash
+layout=$(hyprctl devices | grep 'active keymap' | head -1 | xargs)
+
+standard_layout="active keymap: English (UK)"
+intl_layout="active keymap: English (UK, intl.)"
+
+if [ "$layout" == "$standard_layout" ]; then
+	hyprctl keyword input:kb_variant intl
+	echo "INTL"
+elif [[ "$layout" = "$intl_layout" ]]; then
+	hyprctl keyword input:kb_variant gb
+	echo "EN"
+fi
