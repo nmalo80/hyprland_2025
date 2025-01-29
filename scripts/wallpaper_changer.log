@@ -1366,3 +1366,875 @@ Random wallpaper selected: /home/fed/Pictures/wallpapers/Dark_Nature.png
 Generating Hyprpaper configuration...
 Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
 We got: en
+Destroying output DP-2
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 558c7347ce10
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/Fantasy-Lake3.png at [-997.00, 0.00], scale: 1.57 (original image size: [2912, 1632])
+[LOG] Submitting viewport dest size 1440x2560 for 7347ce10
+[LOG] handlePreferredScale: 1.00 for 558c7347ce10
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 558c7347eca0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/Fantasy-Lake3.png at [-5.33, 0.00], scale: 0.88 (original image size: [2912, 1632])
+[LOG] Submitting viewport dest size 2560x1440 for 7347eca0
+[LOG] handlePreferredScale: 1.00 for 558c7347eca0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Fantasy-Lake3.png, preload path /run/user/1000/.hyprpaper_1w3KuB
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Fantasy-Lake3.png, preload path /run/user/1000/.hyprpaper_1iaXH0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dark_Nature.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dark_Nature.png in 68.99ms -> Pixel size: [2563, 1436]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dark_Nature.png, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dark_Nature.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/Dark_Nature.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 558c7347f490
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/Dark_Nature.png at [-877.63, 0.00], scale: 1.78 (original image size: [2563, 1436])
+[LOG] Submitting viewport dest size 1440x2560 for 7347f490
+[LOG] handlePreferredScale: 1.00 for 558c7347f490
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dark_Nature.png, preload path /run/user/1000/.hyprpaper_q7Iv9N
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dark_Nature.png, preload path /run/user/1000/.hyprpaper_ubCGa3
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dark_Nature.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dark_Nature.png in 63.04ms -> Pixel size: [2563, 1436]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dark_Nature.png, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dark_Nature.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/Dark_Nature.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 75411c004d80
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/Dark_Nature.png at [-5.06, 0.00], scale: 1.00 (original image size: [2563, 1436])
+[LOG] Submitting viewport dest size 2560x1440 for 1c004d80
+[LOG] handlePreferredScale: 1.00 for 75411c004d80
+[LOG] No pointer capability from the compositor
+[LOG] Destroying output DVI-I-2
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 f-------------------------------------
+Thu 23 Jan 15:36:23 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Beach-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Thu 23 Jan 15:37:11 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/marioworld_1.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Thu 23 Jan 16:26:55 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Thu 23 Jan 17:05:49 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_wolrd_2.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Thu 23 Jan 18:00:58 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Landscape3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Fri 24 Jan 09:37:39 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Summer-Scene-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Fri 24 Jan 10:08:54 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Beach-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Fri 24 Jan 10:43:25 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Garden.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Fri 24 Jan 12:02:20 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/marioworld_1.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1737720139_230488088/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/marioworld_1.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/marioworld_1.png in 9.45ms -> Pixel size: [1680, 1050]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/marioworld_1.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/old/marioworld_1.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 70dcf40016b0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/old/marioworld_1.png at [0.00, -52.50], scale: 1.52 (original image size: [1680, 1050])
+[LOG] Submitting viewport dest size 2560x1440 for f40016b0
+[LOG] handlePreferredScale: 1.00 for 70dcf40016b0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/marioworld_1.png, preload path /run/user/1000/.hyprpaper_nJwj9x
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/marioworld_1.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/marioworld_1.png in 9.74ms -> Pixel size: [1680, 1050]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/marioworld_1.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/old/marioworld_1.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 70dcf4001770
+[LOG] configure for DVI-I-2
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/marioworld_1.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/old/marioworld_1.png at [-544.69, 0.00], scale: 2.44 (original image size: [1680, 1050])
+[LOG] Submitting viewport dest size 1440x2560 for f4001770
+[LOG] handlePreferredScale: 1.00 for 70dcf4001770
+[LOG] Destroying output DVI-I-2
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 56e1782feca0
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/old/marioworld_1.png at [-544.69, 0.00], scale: 2.44 (original image size: [1680, 1050])
+[LOG] Submitting viewport dest size 1440x2560 for 782feca0
+[LOG] handlePreferredScale: 1.00 for 56e1782feca0
+[LOG] Destroying output DP-2
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 70dcf40016b0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/old/marioworld_1.png at [0.00, -52.50], scale: 1.52 (original image size: [1680, 1050])
+[LOG] Submitting viewport dest size 2560x1440 for f40016b0
+[LOG] handlePreferredScale: 1.00 for 70dcf40016-------------------------------------
+Fri 24 Jan 15:31:32 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Fri 24 Jan 17:33:37 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Landscape3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Fri 24 Jan 20:26:24 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Lake3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sat 25 Jan 08:54:55 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_wolrd_2.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sat 25 Jan 12:09:06 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sat 25 Jan 15:17:43 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Lake3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sat 25 Jan 18:14:17 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Landscape3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sat 25 Jan 18:41:41 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_world_2440.gif
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1737830499_1491790759/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/mario_world_2440.gif
+[CRITICAL] unrecognized image /home/fed/Pictures/wallpapers/old/mario_world_2440.gif
+We got: en
+-------------------------------------
+Sat 25 Jan 18:41:46 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/mtheme.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sat 25 Jan 18:42:01 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1737830499_1491790759/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/mtheme.png in 70.04ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf80014d0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/mtheme.png at [-0.00, 0.00], scale: 1.00 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 2560x1440 for f80014d0
+[LOG] handlePreferredScale: 1.00 for 7d4bf80014d0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_likQAj
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/mtheme.png in 65.65ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf8001590
+[LOG] configure for DVI-I-2
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/mtheme.png at [-875.00, 0.00], scale: 1.78 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 1440x2560 for f8001590
+[LOG] handlePreferredScale: 1.00 for 7d4bf8001590
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_GcaQir
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_oBxi3g
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg in 28.18ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/cropped-2560-14We got: en
+-------------------------------------
+Sat 25 Jan 18:42:03 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/mtheme.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+40-645982.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf8007a10
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg at [-0.00, 0.00], scale: 1.00 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 2560x1440 for f8007a10
+[LOG] handlePreferredScale: 1.00 for 7d4bf8007a10
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, preload path /run/user/1000/.hyprpaper_4smEZS
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, preload path /run/user/1000/.hyprpaper_9g4hTr
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg in 19.63ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf8001460
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg at [-875.00, 0.00], scale: 1.78 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 1440x2560 for f8001460
+[LOG] handlePreferredScale: 1.00 for 7d4bf8001460
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, preload path /run/user/1000/.hyprpaper_qsGlKQ
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/cropped-2560-1440-645982.jpg, preload path /run/user/1000/.hyprpaper_acAPNm
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/mtheme.png in 52.68ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf8005d50
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/mtheme.png at [-0.00, 0.00], scale: 1.00 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 2560x1440 for We got: en
+-------------------------------------
+Sat 25 Jan 18:42:05 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+f8005d50
+[LOG] handlePreferredScale: 1.00 for 7d4bf8005d50
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_YHTZRq
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_9QRtcF
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/mtheme.png in 55.94ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/mtheme.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/mtheme.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf8001550
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/mtheme.png at [-875.00, 0.00], scale: 1.78 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 1440x2560 for f8001550
+[LOG] handlePreferredScale: 1.00 for 7d4bf8001550
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_xFG6Y2
+[LOG] Unloading target /home/fed/Pictures/wallpapers/mtheme.png, preload path /run/user/1000/.hyprpaper_m8K8fo
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png in 129.81ms -> Pixel size: [4096, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png, Shared Memory usage: 14.7MB
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7d4bf80016d0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png at [-128.00, 0.00], scale: 0.67 (original image size: [4096, 2160])
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Submitting viewport dest size 2560x1440 for f80016d0
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png, preload path /run/user/1000/.hyprpaper_5dlN3M
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png, preload path /run/user/1000/.hyprpaper_aZpLSY
+[LOG] handlePreferredScale: 1.00 for 7d4bf80016d0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Forest-Dark.png inWe got: en
+-------------------------------------
+Sat 25 Jan 21:01:16 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/mtheme.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sun 26 Jan 12:46:06 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Garden.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sun 26 Jan 14:01:24 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1737900082_1002767944/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg in 5.77ms -> Pixel size: [1600, 901]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7e286c001730
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg at [0.00, -0.50], scale: 1.60 (original image size: [1600, 901])
+[LOG] Submitting viewport dest size 2560x1440 for 6c001730
+[LOG] handlePreferredScale: 1.00 for 7e286c001730
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg, preload path /run/user/1000/.hyprpaper_fG40pA
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg in 5.44ms -> Pixel size: [1600, 901]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 7e286c001770
+[LOG] configure for DVI-I-2
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg at [-546.59, 0.00], scale: 2.84 (original image size: [1600, 901])
+[LOG] Submitting viewport dest size 1440x2560 for 6c001770
+[LOG] handlePreferredScale: 1.00 for 7e286c001770
+[LOG] Destroying output DVI-I-2
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 5b125f9d8ca0
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg at [-546.59, 0.00], scale: 2.84 (original image size: [1600, 901])
+[LOG] Submitting viewport dest size 1440x2560 for 5f9d8ca0
+[LOG] handlePreferredScale: 1.00 for 5b125f9d8ca0
+[LOG] Destroying output DP-2
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7e286c001730
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/old/mario_wolrd_3.jpg at [0.00, -0.50], scale: 1.60 (original image size: [1600, 901])
+[LOG] Submitting viewport dest size 2560x1440 for 6c001730
+[LOG] handlePreferredScale: 1.00 for 7e2-------------------------------------
+Sun 26 Jan 17:13:09 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Beach-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sun 26 Jan 19:17:10 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Landscape3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Sun 26 Jan 20:59:49 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Lake3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 08:15:16 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_world_2440.gif
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1737965715_791364630/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/mario_world_2440.gif
+[CRITICAL] unrecognized image /home/fed/Pictures/wallpapers/old/mario_world_2440.gif
+We got: en
+-------------------------------------
+Mon 27 Jan 08:15:23 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Landscape3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 10:41:49 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Beach-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 15:03:27 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dark_Nature.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 16:27:24 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1737995242_115951235/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png in 136.32ms -> Pixel size: [3840, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7f0cb8004210
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png at [-0.00, 0.00], scale: 0.67 (original image size: [3840, 2160])
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Submitting viewport dest size 2560x1440 for b8004210
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png, preload path /run/user/1000/.hyprpaper_VMGuRz
+[LOG] handlePreferredScale: 1.00 for 7f0cb8004210
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png in 135.58ms -> Pixel size: [3840, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 7f0cb80050e0
+[LOG] configure for DVI-I-2
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png at [-1312.50, 0.00], scale: 1.19 (original image size: [3840, 2160])
+[LOG] Submitting viewport dest size 1440x2560 for b80050e0
+[LOG] handlePreferredScale: 1.00 for 7f0cb80050e0
+[LOG] Destroying output DVI-I-2
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 58b03a1ddca0
+[LOG] configure for DVI-I-2
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png at [-1312.50, 0.00], scale: 1.19 (original image size: [3840, 2160])
+[LOG] Submitting viewport dest size 1440x2560 for 3a1ddca0
+[LOG] handlePreferredScale: 1.00 for 58b03a1ddca0
+[LOG] Destroying output -------------------------------------
+Mon 27 Jan 21:01:04 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Summer-Scene-Light.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 21:03:23 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Summer-Scene-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 21:06:36 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (2), removing 29.5MB
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1738011994_880803685/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png in 197.88ms -> Pixel size: [4096, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 710f6c0041d0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png at [-128.00, 0.00], scale: 0.67 (original image size: [4096, 2160])
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Submitting viewport dest size 2560x1440 for 6c0041d0
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, preload path /run/user/1000/.hyprpaper_LdtdcR
+[LOG] handlePreferredScale: 1.00 for 710f6c0041d0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png in 192.21ms -> Pixel size: [4096, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 710f6c00dd90
+[LOG] configure for DVI-I-2
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png at [-1440.50, 0.00], scale: 1.19 (original image size: [4096, 2160])
+[LOG] Submitting viewport dest size 1440x2560 for 6c00dd90
+[LOG] handlePreferredScale: 1.00 for 710f6c00dd90
+-------------------------------------
+Mon 27 Jan 21:10:39 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Mon 27 Jan 21:11:52 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Summer-Scene-Dark.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (2), removing 29.5MB
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-2 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1738012237_162585606/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg in 21.38ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/old/mario_world_2440.jpg
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 749240001730
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg at [-0.00, 0.00], scale: 1.00 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 2560x1440 for 40001730
+[LOG] handlePreferredScale: 1.00 for 749240001730
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg, preload path /run/user/1000/.hyprpaper_7N8gT4
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg in 14.28ms -> Pixel size: [2560, 1440]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-2,/home/fed/Pictures/wallpapers/old/mario_world_2440.jpg
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-2
+[LOG] handlePreferredScale: 1.00 for 749240001770
+[LOG] configure for DVI-I-2
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-2: /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg at [-875.00, 0.00], scale: 1.78 (original image size: [2560, 1440])
+[LOG] Submitting viewport dest size 1440x2560 for 40001770
+[LOG] handlePreferredScale: 1.00 for 749240001770
+[LOG] Destroying output DVI-I-2
+[WARN] Monitor DVI-I-1 does not have a target! A wallpaper will not be created.
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg, preload path /run/user/1000/.hyprpaper_IktyAp
+[LOG] Unloading target /home/fed/Pictures/wallpapers/old/mario_world_2440.jpg, preload path /run/user/1000/.hyprpaper_7TIBWN
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpaperWe got: en
+-------------------------------------
+Tue 28 Jan 12:46:47 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Fantasy-Landscape3.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+-------------------------------------
+Wed 29 Jan 08:29:47 GMT 2025: Starting wallpaper changer script.
+Random wallpaper selected: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+Generating Hyprpaper configuration...
+Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf.
+We got: en
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+Error in config: 
+Config error in file /home/fed/.config/hypr/hyprpaper.conf at line 1: Invalid config line
+[WARN] Monitor DP-2 does not have a target! A wallpaper will not be created.
+[WARN] Monitor DVI-I-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/12f9a0d0b93f691d4d9923716557154d74777b0a_1738139385_788910014/.hyprpaper.sock (fd: 4)
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: unload all
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png in 193.02ms -> Pixel size: [4096, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DP-2,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7ef40c0041d0
+[LOG] configure for DP-2
+[LOG] Image data for DP-2: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png at [-128.00, 0.00], scale: 0.67 (original image size: [4096, 2160])
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Submitting viewport dest size 2560x1440 for c0041d0
+[LOG] Received a request: unload all
+[LOG] Unloading target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, preload path /run/user/1000/.hyprpaper_lukJ66
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] handlePreferredScale: 1.00 for 7ef40c0041d0
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: preload /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Preloaded target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png in 191.57ms -> Pixel size: [4096, 2160]
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 14.7MB
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Received a request: wallpaper DVI-I-1,/home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png
+[LOG] Accepted incoming socket connection request on fd 5
+[LOG] Closing Accepted Connection
+[LOG] configure for DVI-I-1
+[LOG] handlePreferredScale: 1.00 for 7ef40c00dd90
+[LOG] configure for DVI-I-1
+[LOG] Buffer created for target /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 29.5MB
+[LOG] Image data for DVI-I-1: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png at [-1440.50, 0.00], scale: 1.19 (original image size: [4096, 2160])
+[LOG] Submitting viewport dest size 1440x2560 for c00dd90
+[LOG] handlePreferredScale: 1.00 for 7ef40c00dd90
+[LOG] Destroying output DVI-I-1
+[LOG] configure for DVI-I-1
+[LOG] handlePreferredScale: 1.00 for 5a211b2baca0
+[LOG] configure for DVI-I-1
+[LOG] Image data for DVI-I-1: /home/fed/Pictures/wallpapers/Dynamic-Wallpapers/Light/Forest-Light.png at [-1440.50, 0.00], scale: 1.19 (original image size: [4096, 2160])
+[LOG] Submitting viewport dest size 1440x2560 for 1b2baca0
+[LOG] handlePreferredScale: 1.00 for 5a211b2baca0
+[LOG] Destroying output DP-2
+[LOG] configure for DP-2
+[LOG] handlePreferredScale: 1.00 for 7ef40c0041d
