@@ -6,9 +6,11 @@ WALLPAPER_DIR="/home/fed/Pictures/wallpapers"
 # Log file
 LOG_FILE="/home/fed/.config/hypr/scripts/wallpaper_changer.log"
 # Start logging
-exec >> "$LOG_FILE" 2>&1
+exec >> "$LOG_FILE"
+
 echo "-------------------------------------"
 echo "$(date): Starting wallpaper changer script."
+
 
 # Pick a random wallpaper
 if [ -d "$WALLPAPER_DIR" ]; then
@@ -29,4 +31,5 @@ echo "Hyprpaper configuration generated at ~/.config/hypr/hyprpaper.conf."
 
 # Start Hyprpaper
 #hyprpaper &  
-waypaper --wallpaper $RANDOM_WALLPAPER
+# waypaper --wallpaper $RANDOM_WALLPAPER
+swaybg -i $RANDOM_WALLPAPER -m fill     
